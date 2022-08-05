@@ -1,7 +1,10 @@
 <h2> List of CHIPS </h2>
 
 <ul>
-    <li>And</li>
+    <li>
+        <h3>And</h3>
+        <img src="src/And.png">
+    </li>
     <li>And16</li>
     <li>DMux</li>
     <li>DMux4Way</li>
