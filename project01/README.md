@@ -1,18 +1,16 @@
 <h2> List of CHIPS </h2>
 
-<ol>
-    <li>
-        <h3>And</h3>
-        <img src="src/And.png">
-    </li>
-    <li>And16</li>
-    <li>DMux</li>
-    <li>DMux4Way</li>
-    <li>DMux8Way</li>
-    <li>Mux16</li>
-    <li>Not</li>
-    <li>Not16</li>
-    <li>Or</li>
-    <li>Or8Way</li>
-    <li>Or16</li>
-</ol>
+<h3>Main gates</h3>
+<img src="Gates.png">
+
+
+<h3>AndGate</h3>
+<img src="AndGate.png">
+
+
+<h3>OrGate</h3>
+<img src="OrGate.png">
+
+
+<h3>NotGate</h3>
+<img src="NotGate.png">
