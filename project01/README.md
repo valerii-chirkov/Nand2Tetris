@@ -1,6 +1,6 @@
 <h2> List of CHIPS </h2>
 
-<ul>
+<ol>
     <li>
         <h3>And</h3>
         <img src="src/And.png">
@@ -15,4 +15,4 @@
     <li>Or</li>
     <li>Or8Way</li>
     <li>Or16</li>
-</ul>
+</ol>
